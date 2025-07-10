@@ -1,4 +1,4 @@
-# Ordenador Universal
+# TP1 - Ordenador Universal
 ![Feito em C++](https://img.shields.io/badge/C%2B%2B-Feito%20em-blue)
 
 ![Badge Concluído](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
