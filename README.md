@@ -1,8 +1,6 @@
 # Ordenador Universal
-## 🏷️ Status e Tecnologias
+![Feito em C++](https://img.shields.io/badge/C%2B%2B-Feito%20em-blue)
 
-![Feito em SQL](https://img.shields.io/badge/SQL-Feito%20em-blueviolet)
-![Feito em Python](https://img.shields.io/badge/Python-Feito%20em-yellow)
 ![Badge Concluído](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 
 
